@@ -2,7 +2,7 @@
 print('Hello World-actualiado en main')
 
 def greet():
-    print('Hello como una función avanzada')
+    print('Error corregido en la función')
 
 greet()
 
