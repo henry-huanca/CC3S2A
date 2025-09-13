@@ -1,0 +1,47 @@
+git commit -m "Commit inicial con README.md"
+[main 794a98c] Commit inicial con README.md
+ 1 file changed, 1 insertion(+)
+ create mode 100644 actividad6/README.md
+
+git commit -m "Configura la documentación base del repositorio"
+[main 3c71d30] Configura la documentación base del repositorio
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 100644 actividad6/CONTRIBUTING.md
+
+
+git commit -m "Agrega main.py"
+[main 96fa68f] Agrega main.py
+ 1 file changed, 1 insertion(+)
+ create mode 100644 actividad6/main.py
+
+
+git commit -m "Agrega la funcion greet como función avanzada"
+[feature/advanced-feature 9436eb4] Agrega la funcion greet como función avanzada
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+
+git commit -m "Actualizar el mensaje main.py en la rama main"
+[main 9abb42f] Actualizar el mensaje main.py en la rama main
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+
+ git commit -m "Resuelve el conflicto de fusión entre la versión main y feature/advanced-feature"
+[main 77b8f45] Resuelve el conflicto de fusión entre la versión main y feature/advanced-feature
+
+
+git commit -m "Corregir error en la funcionalidad de rollback"
+[bugfix/rollback-feature 6b30108] Corregir error en la funcionalidad de rollback
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+
+ git commit -m "Introduce un cambio para restablecer"
+[main e311c05] Introduce un cambio para restablecer
+ 1 file changed, 1 insertion(+), 8 deletions(-)
+
+ git commit -m "Agrega script de colaboración"
+[feature/team-feature 19c1e13] Agrega script de colaboración
+ 1 file changed, 1 insertion(+)
+ create mode 100644 actividad6/colaboracion.py
+
+
+

@@ -1,0 +1,8 @@
+ git merge feature/advanced-feature
+Auto-merging actividad6/main.py
+CONFLICT (content): Merge conflict in actividad6/main.py
+Automatic merge failed; fix conflicts and then commit the result.
+
+
+-Para resolver el conflicto del merge se tuvo que entrar al documento main.py de manera manual con el comando nano main.py, después se eliminaron las partes donde había los signos =,>,< y luego se guardaron los cambios.
+

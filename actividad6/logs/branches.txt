@@ -1,0 +1,3 @@
+git branch -vv
+* feature/team-feature 19c1e13 Agrega script de colaboración
+  main                 6b30108 [origin/main] Corregir error en la funcionalidad de rollback
