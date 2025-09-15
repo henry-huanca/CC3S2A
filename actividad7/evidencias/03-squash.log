@@ -1,0 +1,33 @@
+* c52cc18 (HEAD -> main) Squash de feature-3: documentación estándar
+| * 78116cd (feature-3) ejercicio3-2
+| * c121648 ejericio3-1
+|/  
+*   bef50b6 merge: integrar add-feature
+|\  
+| * 9f34a5e (add-feature) no-fast-forward
+|/  
+* 24f32be (feature-1) fast-forward
+* b982ed4 (origin/main, origin/HEAD) readme
+* 5d65ba1 evidencias
+* 7f28e3c actividad 4
+* d360ec9 actividad3
+*   e3aa010 Merge pull request #3 from henry-huanca/feature/team-feature
+|\  
+| * c9cd2e8 (origin/feature/team-feature) actividad2
+* | e8057a5 Merge pull request #2 from henry-huanca/feature/team-feature
+|\| 
+| * 9a1e2a3 logs-imagenes
+* | 935f644 Merge pull request #1 from henry-huanca/feature/team-feature
+|\| 
+| * 19c1e13 Agrega script de colaboración
+|/  
+* 6b30108 Corregir error en la funcionalidad de rollback
+*   77b8f45 Resuelve el conflicto de fusión entre la versión main y feature/advanced-feature
+|\  
+| * 9436eb4 Agrega la funcion greet como función avanzada
+* | 9abb42f Actualizar el mensaje main.py en la rama main
+|/  
+* 96fa68f Agrega main.py
+* 3c71d30 Configura la documentación base del repositorio
+* 794a98c Commit inicial con README.md
+* b2ed664 Initial commit
