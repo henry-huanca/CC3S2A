@@ -1,0 +1,65 @@
+* d1ea7f7 (feature-rename) merge rename
+* 8d23df3 Renombrar archivo
+*   ff12347 (HEAD -> main) Merge branch 'feature-x'
+|\  
+| * c369469 (feature-x) Cambio en feature-x
+* | 1d824a4 Cambio en main
+|/  
+* 656771b conflicto
+*   1cf541e Add 'vendor/demo/' from commit '149c753c910ce62399b5e41ed3cb6d576cc977b2'
+|\  
+| * 149c753 Initial commit
+* f9b6b6f (origin/main, origin/HEAD) octopuslog
+*   04cb6b8 Merge branches 'feat-a' and 'feat-b'
+|\  
+| * 711070f (feat-b) featb
+* | 7e85e6e (feat-a) feata
+|/  
+*   e0a3f44 feature validate
+|\  
+| * 8443912 (feature-validate) script-sh
+|/  
+* bcda893 (feature-rebase) rebase2
+* ec91eda rebase
+* 4e652c0 cambio el main
+* 9c78cce (feature-ffonly) ffonly
+* f650dd8 Revert "prueea"
+* 63464d4 prueba
+* c0919c1 actividad7-1
+* ee7d5e2 ejericio conflicto
+| * 1e244c0 (feature-update) feature-update
+|/  
+* 1aab6b1 index.html
+* c52cc18 Squash de feature-3: documentación estándar
+| * 78116cd (feature-3) ejercicio3-2
+| * c121648 ejericio3-1
+|/  
+*   bef50b6 merge: integrar add-feature
+|\  
+| * 9f34a5e (add-feature) no-fast-forward
+|/  
+* 24f32be (feature-1) fast-forward
+* b982ed4 readme
+* 5d65ba1 evidencias
+* 7f28e3c actividad 4
+* d360ec9 actividad3
+*   e3aa010 Merge pull request #3 from henry-huanca/feature/team-feature
+|\  
+| * c9cd2e8 (origin/feature/team-feature) actividad2
+* | e8057a5 Merge pull request #2 from henry-huanca/feature/team-feature
+|\| 
+| * 9a1e2a3 logs-imagenes
+* | 935f644 Merge pull request #1 from henry-huanca/feature/team-feature
+|\| 
+| * 19c1e13 Agrega script de colaboración
+|/  
+* 6b30108 Corregir error en la funcionalidad de rollback
+*   77b8f45 Resuelve el conflicto de fusión entre la versión main y feature/advanced-feature
+|\  
+| * 9436eb4 Agrega la funcion greet como función avanzada
+* | 9abb42f Actualizar el mensaje main.py en la rama main
+|/  
+* 96fa68f Agrega main.py
+* 3c71d30 Configura la documentación base del repositorio
+* 794a98c Commit inicial con README.md
+* b2ed664 Initial commit
